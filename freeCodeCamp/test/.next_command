@@ -215,3 +215,4 @@ find -name client/asstes/images
 find -name cliwholename client/asstes/images
 find -name images
 mv header.png client/assets/images
+find -name header.png
