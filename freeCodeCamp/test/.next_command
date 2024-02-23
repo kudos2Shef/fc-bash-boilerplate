@@ -192,3 +192,6 @@ pwd
 ls --color=auto
 mkdir assets
 cd assets
+mkdir
+mkdir assets/images
+mkdir images
