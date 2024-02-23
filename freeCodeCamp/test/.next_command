@@ -211,3 +211,6 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+find -name client/asstes/images
+find -name cliwholename client/asstes/images
+find -name images
