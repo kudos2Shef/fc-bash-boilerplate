@@ -188,3 +188,6 @@ find -name styles.css
 find -name src
 find
 cd client
+pwd
+ls --color=auto
+mkdir assets
