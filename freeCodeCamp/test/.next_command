@@ -191,3 +191,4 @@ cd client
 pwd
 ls --color=auto
 mkdir assets
+cd assets
