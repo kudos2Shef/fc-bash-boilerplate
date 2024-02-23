@@ -195,3 +195,4 @@ cd assets
 mkdir
 mkdir assets/images
 mkdir images
+cd images
