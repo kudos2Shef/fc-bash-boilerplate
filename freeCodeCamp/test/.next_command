@@ -205,3 +205,4 @@ cd client/assets/images
 cd client
 pwd
 cd ../../..
+cd images
