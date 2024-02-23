@@ -171,3 +171,5 @@ find
 find images
 find
 mkdir client
+mkdir client src
+mkdir client/src
