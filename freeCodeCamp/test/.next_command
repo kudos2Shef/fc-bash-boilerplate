@@ -298,3 +298,4 @@ ls --color=auto
 cp -r website-boilerplate toms-website
 find toms-website
 find website-boilerplate
+clear
